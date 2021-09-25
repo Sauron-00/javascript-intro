@@ -1,11 +1,19 @@
 {
   "name": "js-intro-bootcamp2021",
   "version": "1.0.0",
-  "description": "Javascript intro",
+  "description": "Javascript Intro",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Marsil Alashkar",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sauron-00/javascript-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sauron-00/javascript-intro/issues"
+  },
+  "homepage": "https://github.com/Sauron-00/javascript-intro#readme"
 }
