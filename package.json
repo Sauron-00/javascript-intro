@@ -1,0 +1,11 @@
+{
+  "name": "js-intro-bootcamp2021",
+  "version": "1.0.0",
+  "description": "Javascript intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Marsil Alashkar",
+  "license": "ISC"
+}
